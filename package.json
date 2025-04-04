@@ -1,0 +1,22 @@
+{
+  "name": "paperclips",
+  "version": "1.0.0",
+  "description": "A bot to play Universal Paperclips",
+  "main": "paperclips.js",
+  "scripts": {
+    "format": "prettier --write *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcdiblasi/paperclips.git"
+  },
+  "author": "Marc DiBlasi",
+  "license": "GPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/marcdiblasi/paperclips/issues"
+  },
+  "homepage": "https://github.com/marcdiblasi/paperclips#readme",
+  "dependencies": {
+    "prettier": "^3.5.3"
+  }
+}
